@@ -17,12 +17,13 @@
 	</organization>
 
 	<properties>
-		<jdk.version>1.8</jdk.version>
+		<!-- <jdk.version>1.8</jdk.version> -->
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://3.82.194.33:9000/</sonar.host.url>
-                <sonar.login>eef3138d8475fc49ee0cfe62e9567badba0917f8</sonar.login>
+		<sonar.organization>prashanth</sonar.organization>
+		 <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+                <sonar.login>87c27ed28b283a268107a01e0df0303f9b74d103</sonar.login>
 		
              
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
